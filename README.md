@@ -1,3 +1,5 @@
+Thanks to Renzo for putting this together 
+
 # Vertex AI Search Agent Builder
 
 ## Pre-requisite Setup
